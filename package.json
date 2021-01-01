@@ -1,0 +1,19 @@
+{
+    "name": "kodilla-modul-28.4",
+    "version": "1.0.0",
+    "description": "To-do-socketio",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server",
+        "dev": "nodemon server"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "socket.io": "^3.0.4"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
